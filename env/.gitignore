@@ -1,0 +1,8 @@
+#환경 변수 파일 무시
+.env
+
+# # Node.js 패키지 폴더 무시
+# node_modules/
+
+# # Python 가상환경 무시
+# venv/
